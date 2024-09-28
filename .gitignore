@@ -1,0 +1,14 @@
+# Ignoriši build fajlove
+bin/
+obj/
+
+# Ignoriši korisničke postavke
+*.user
+*.suo
+
+# Ignoriši .log fajlove
+*.log
+
+# Ignoriši direktorijume za IDE konfiguraciju (Visual Studio Code, JetBrains)
+.vs/
+.idea/
